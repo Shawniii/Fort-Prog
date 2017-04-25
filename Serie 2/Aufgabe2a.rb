@@ -8,4 +8,5 @@ def concat(a2d)
     return result
 end
 
-print(concat([[2,3], [5,6], [9,10]]))
+p(concat([[2,3], [5,6], [9,10]]))
+print(concat([[[1,2],3],[4]]))
